@@ -1,6 +1,6 @@
 {
   "name": "langgraph-callback-checkpointer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A checkpoint with callbacks so you can implement your own storage mechanism",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
